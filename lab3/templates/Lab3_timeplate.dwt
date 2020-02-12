@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="content" type="boolean" value="true" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0" background="../images/layout/header_bg.jpg">
+      <tr>
+        <td width="300" height="173"><img src="../images/layout/logo.png" width="284" height="160" /></td>
+        <td><img src="../images/layout/banner.png" width="600" height="173" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="9" height="50" background="../images/layout/menu_left.gif">&nbsp;</td>
+        <td background="../images/layout/menu_bg.gif" align="center"><img src="../images/layout/home.png" width="16" height="16" />Trang chủ</td>
+        <td width="9" height="50" background="../images/layout/menu_divider.gif">&nbsp;</td>
+        <td background="../images/layout/menu_bg.gif" align="center" al><img src="../images/layout/services.png" width="16" height="16" />Dịch vụ</td>
+        <td width="9" height="50" background="../images/layout/menu_divider.gif">&nbsp;</td>
+        <td background="../images/layout/menu_bg.gif" align="center"><img src="../images/layout/favs.png" width="16" height="16" />Tin khuyến mãi</td>
+        <td width="9" height="50" background="../images/layout/menu_divider.gif">&nbsp;</td>
+        <td background="../images/layout/menu_bg.gif" align="center"><img src="../images/layout/car.png" width="16" height="16" />Giao Hàng</td>
+        <td width="9" height="50" background="../images/layout/menu_divider.gif">&nbsp;</td>
+        <td background="../images/layout/menu_bg.gif" align="center"\><img src="../images/layout/user_add.png" width="16" height="16" />Đăng nhập</td>
+        <td width="9" height="50" background="../images/layout/menu_divider.gif">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+  <tr valign="top">
+    <td ><table width="100%" border="0" cellspacing="0" cellpadding="0"  valign="top">
+      <tr>
+        <td><table width="196" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td background="../images/layout/menu_title_bg.gif" align="center" valign="top"><font color="#FFFFFF"><b>Loại sản phẩm</b></font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Điện thoại</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> Máy tính bảng</td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Laptop</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> Tivi</td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Ampli</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> Loa</td>
+          </tr>
+        </table></td>
+        <td width="24">&nbsp;</td>
+        <td><!-- TemplateBeginIf cond="content" --><!-- TemplateBeginEditable name="EditRegion1" -->content<!-- TemplateEndEditable --><!-- TemplateEndIf --></td>
+        <td width="24">&nbsp;</td>
+        <td width="196"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td background="../images/layout/menu_title_bg.gif" align="center"><font color="#FFFFFF"><b>Hãng sản xuất</b></font></td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Apple</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> Nokia</td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Samsung</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> LG</td>
+          </tr>
+          <tr>
+            <td bgcolor="#dad0d0"><img src="../images/layout/checked.png" width="16" height="16" /> Sharp</td>
+          </tr>
+          <tr>
+            <td bgcolor="#eee6e6"><img src="../images/layout/checked.png" width="16" height="16" /> Toshiba</td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="60" background="../images/layout/footer_bg.gif" align="center"><font color="#847676">Copyright siêu thị điện máy H-T<br />
+    Địa chỉ: 180 Cao Lỗ phường 4 quận 8 Tp.Hồ Chí Minh<br />
+    Điện thoại: 0909123456</font></td>
+  </tr>
+</table>
+</body>
+</html>

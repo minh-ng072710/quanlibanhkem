@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lab 8 - Bài 3</title>
+	<script src="scripts/lab8_bai3.js" type="text/javascript">
+	</script>
+	<style>
+		#container{
+			width: 30%;
+			height: 300px;
+			position: relative;
+			font-size: 25px;
+			border: 2px solid black;
+		}
+		.line{
+			position: absolute;
+			top:20px;
+			left: 20px;
+		}
+		.line input{
+			position: absolute;
+			left: 100px;
+			width: 150px;
+		}
+		#container button{
+			padding: 10px 20px;
+		}
+		#container #kq{
+			position: absolute;
+			left: 120px;
+			top: -24px;
+		}
+	</style>
+</head>
+
+<body>
+	
+<div id="container">
+		<div class="line">
+			Số 1: <input type="text" id="so1" readonly style="margin-left: 50px;top: 5px;" />
+		</div>
+		<div style="position: absolute;top: 30px;left: 237px;"><p>+</p></div>
+		<div class="line" style="top: 85px;">
+			Số 2: <input type="text" id="so2" readonly style="margin-left: 50px;top: 5px;" />
+		</div>
+		<div class="line" style="top: 125px;">
+			Số 1 + Số 2 =  <input type="text" id="cong2so" style="margin-left: 50px;top: 5px;" />
+		</div>
+		<div class="line" style="top: 165px;">
+			<button onClick="randomNumber()" style="margin-left: 50px">Bài mới</button><button onClick="check()" style="margin-left: 25px">Kiểm tra kết quả</button>
+		</div>
+		<div class="line" style="top: 215px;">
+			Kết quả: <p id="kq"></p>
+		</div>
+	</div>
+</body>
+</html>

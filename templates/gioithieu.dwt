@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../styles/lab5_bai2.css"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Siêu thị điện máy</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+@charset "utf-8";
+/* CSS Document */
+
+
+
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+    	<div id="logo" ></div>
+        <div id="banner"></div>
+    </div>
+    <div id="menu">
+      <div class="menu_corner"><img src="../images/layout/menu_left.gif" /></div>
+    	
+        <div id="menu_content">
+        	<ul id="hmenu" >
+            <li><a href="#"> Giới Thiệu</a></li>
+            <li class="devider">&nbsp;</li>
+            <li><a href="#">Nguyên Liệu  </a></li>
+            <li class="devider">&nbsp;</li>
+            <li><a href="#"> Tin Khuyến Mãi  </a></li>
+            <li class="devider">&nbsp;</li>
+            <li><a href="#">Hệ Thông Cửa Hàng </a></li>
+            <li class="devider">&nbsp;</li>
+            <li><a href="#"> Giỏ Hàng </a></li>
+            </ul>
+        </div>
+        <div class="menu_corner"><img src="../images/layout/menu_right.gif" /></div>
+        <div style="clear:both"></div>
+    </div>
+    <div id="path"></div>
+    <div id="main">
+      <p><strong>Lịch sử phát triển</strong></p>
+      <p>Người sáng lập là Ông Hứa Ngọc Lâm, Ông đã đến Việt Nam hơn 20 năm. Công ty TNHH Thực phẩm Đại Phát được thành lập vào năm 2000, là công ty Thực phẩm Việt Nam với vốn đầu tư 100% Đài Loan. Phạm vi kinh doanh chủ yếu là bánh nướng các loại cho đến việc gia công thực phẩm, được tiêu thụ trong và ngoài nước. Trải qua sự nỗ lực và rèn giũa không ngừng hơn chục năm qua, Thực Phẩm Đại Phát đã gây dựng được thương hiệu ở Việt Nam, Lễ hộp của Thực phẩm Đại Phát phong phú về chủng loại, đã trở thành một trong những thương hiệu mang tính chủ lược ở Việt Nam, đồng thời giữ vững ổn định được thương hiệu và vị thế của mình, ngày một phát triển rông khắp.</p>
+      <p><strong>Giới thiệu Nhà xưởng</strong></p>
+      <p>Nhà xưởng tọa lạc ở Khu công nghiệp Sóng Thần tỉnh Bình Dương, là nhà xưởng đươc thiết kế chuyên dành cho sản xuất thực phẩm, hoàn toàn tuân thủ các tiêu chuẩn của GMP, CAS và HACCP. Công ty sử dụng nguyên liệu đều là nông sản cao cấp của Việt Nam, sản phẩm được tiêu thụ sang các nước Nhật Bản, Đài Loan, Singapore, Mỹ, Úc và châu Âu, phù hợp với tiêu chuẩn qui định thực phẩm của các nước.      </p>
+      <p><strong>Đóng gói thực phẩm</strong></p>
+      <p>Lễ Hộp Đai Phát áp dụng phương thức đóng gói tân tiến hiện đại nhất, được đóng gói kín bằng túi nhựa với mật độ cao KPA, hoàn toàn cách biệt với không khí bên ngoài. Ngoài ra còn có gói hút ẩm, hút ôxy trong túi, đảm bảo cho sản phẩm không bị mốc hỏng, giữ nguyên được hương vị và chất lượng của sản phẩm.</p>
+      <p><strong>Đặc sắc của Bánh Trung Thu</strong></p>
+      <p>Dưới sự chỉ đạo của thầy Trần Chí Minh nổi tiếng Hồng Kông và Đài Loan, đã  nghiên cứu sáng tạo ra nhiều dòng Bánh Trung Thu đặc sắc, như: Bánh Trung Thu Cầu Vồng phong phú về màu sắc, Bánh Trung Thu XO đẳng cấp của Hồng Kông, Bánh Kim Sa bán chạy của Đài Loan, Bánh Trung Thu Quý Phi và Bánh Trung Thu Hợi Con, Thỏ Ngọc v.v…</p>
+      <p><strong>Quan điểm kinh doanh</strong></p>
+      <p>Thực phẩm Đại Phát là công ty thuộc loại hình tri thức, theo đuổi tri thức và chia sẻ tri thức, lấy tri thức để sáng tạo ra lợi nhuận kinh doanh, tất cả lợi nhuận đều được chia cho cổ đông, nhân viên và đóng góp cho xã hội.</p>
+      <p><strong> Sứ mệnh</strong></p>
+      <p>Lễ hộp Đại Phát là cầu nối của tình cảm, gắn kết con người lại gần nhau hơn, làm cho tất cả người thân và bạn bè khi nhận được Lễ Hộp Đại Phát đều cảm nhận được tâm ý của Người tặng, và đó cũng chính là sứ mệnh cao cả của Thực phẩm Đại Phát.</p>
+    </div>
+    <div style="clear:both; height:10px;"></div>
+    <div id="footer">
+    Cửa Hàng Bánh Kem H-T<br />
+    Địa chỉ:17/3 Lũy Bán Bích Phường Tân Thới Hòa Quận Tân Phú<br />
+    Điện thoại: 0898417284</div>
+</div>
+</body>
+</html>

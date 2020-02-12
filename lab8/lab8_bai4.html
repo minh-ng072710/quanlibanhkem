@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lab 8 - Bài 4</title>
+	<script src="scripts/lab8_bai4.js" type="text/javascript"></script>
+	<style>
+		#container{
+			width: 50%;
+			height: auto ;
+			border: 2px solid #000;
+			font-size: 23px;
+			position: relative;
+		}
+		.box{
+			margin-left: 20px;
+			
+		}
+		#container input{
+			height: 20px;
+			width: 300px;
+			left: 230px;
+			margin-bottom: 50px;
+			position: absolute;
+		}
+		.line{
+			margin-bottom: 10px;
+		}
+		#container select{
+			height: 20px;
+			width: 300px;
+			left: 230px;
+			margin-bottom: 50px;
+			position: absolute;
+		}
+	</style>
+</head>
+	
+<body>
+	<form id="container">
+		<div><p align="center"><b>Đăng kí thành viên</b></p></div>
+		<div class="box"> 
+			<div class="line">Tên đăng nhập: <input type="text" id="idUsername" /></div>
+			<div class="line">Mật khẩu: <input type="password" id="idPass" /> </div>
+			
+		</div>
+		<hr />
+		<div class="box">
+			<h4>THÔNG TIN CÁ NHÂN</h4>
+			<div class="line">Họ tên: <input type="text" id="idName" /></div>
+			<div class="line">Ngày sinh: <input type="date" id="idDate" /></div>
+			<div class="line">
+				Giới tính: <input type="radio" name="gioitinh" id="nam" value="Nam" style="left: 85px" checked="checked" /><span style="left: 260px;position: absolute;">Nam</span>
+				<br />
+				<input type="radio" name="gioitinh" id="nu" value="Nu" style="left: 85px" /><span style="left: 260px;position: absolute;">Nữ</span>
+			</div>
+			<br />
+			<div class="line">Địa chỉ email: <input type="email" id="idEmail" /></div>
+			<div class="line">Hình đại diện: <input type="file" id="idHdd" /> </div>
+			<div class="line">Địa chỉ: <input type="text" id="idDiachi" /> </div>
+			<div class="line">Điện thoại <input type="tel" id="idTel" /> </div>
+			<div class="line">Câu hỏi bí mật: <select id="idCauhoi">
+					<option value="0" style="margin-left: 250px;">Chọn câu hỏi bí mật</option>
+					<option value="1" style="margin-left: 250px;">1</option>
+					<option value="2" style="margin-left: 250px;">2</option>
+				</select></div>
+			<div class="line">Trả lời: <input type="text" id="idTraloi" /></div>
+			<div class="line">
+				<div style="float: left;">Bạn đang quan tâm <br /> đến sản phẩm nào?</div>
+				<input style="left: 85px;" type="checkbox" /><span style="left: 260px;position: absolute;">Điện thoại</span><input style="left: 250px;" type="checkbox" /><span style="left: 430px;position: absolute;">Máy ảnh quay phim</span>
+				<br />
+				<input style="left: 85px;" type="checkbox" /><span style="left: 260px;position: absolute;">Tablet</span><input style="left: 250px;" type="checkbox" /><span style="left: 430px;position: absolute;">Điện tử</span>
+				<br />
+				<input style="left: 85px;" type="checkbox" /><span style="left: 260px;position: absolute;">Vi tính</span><input style="left: 250px;" type="checkbox" /><span style="left: 430px;position: absolute;">Gia dụng</span>
+				<br />
+			</div>
+			<div style="clear: both;" class="line"><button style="margin-left: 250px;" onClick="kiemtra()">Đăng kí</button><input style="width: 50px;margin-left: 110px;margin-top: 6px;" type="reset" value="Xóa" /></div>
+			<br />
+			
+		</div>
+	</form>
+</body>
+</html>
